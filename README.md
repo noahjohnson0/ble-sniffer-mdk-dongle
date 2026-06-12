@@ -1,5 +1,8 @@
 <p align="center">
-  <img src="docs/assets/logo.png" alt="ble-sniffer-mdk-dongle" width="200">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="docs/assets/logo-dark.png">
+    <img src="docs/assets/logo-light.png" alt="ble-sniffer-mdk-dongle" width="200">
+  </picture>
 </p>
 
 # BLE Packet Capture with a GeeekPi nRF52840 USB Dongle (Makerdiary MDK)
