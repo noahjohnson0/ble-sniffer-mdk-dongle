@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="docs/assets/logo.png" alt="ble-sniffer-mdk-dongle" width="200">
+</p>
+
 # BLE Packet Capture with a GeeekPi nRF52840 USB Dongle (Makerdiary MDK)
 
 A walkthrough of getting the [GeeekPi nRF52840 Micro Dev Kit USB Dongle](https://www.amazon.com/dp/B07MJ12XLG) working as a BLE packet sniffer on macOS, producing Wireshark-compatible PCAPs.
